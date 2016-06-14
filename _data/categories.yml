@@ -1,8 +1,5 @@
-- slug: design
-  name: Design
+- slug: scalajs
+  name: Scala.js
 
-- slug: tools
-  name: Tools
-
-- slug: productivity
-  name: Productivity
+- slug: http4s
+  name: http4s
